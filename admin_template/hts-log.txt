@@ -1,0 +1,18 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 17 Apr 2017 09:21:12 at http://www.viaviweb.in/Apps/cricket_world_cup/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.viaviweb.in/Apps/cricket_world_cup/index.php -O1 "C:\My Web Sites\ak\aks" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:22:24	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/favicon.ico (from www.viaviweb.in/Apps/cricket_world_cup/index.php)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/logo.png (from www.viaviweb.in/Apps/cricket_world_cup/css/elfinder.min.css)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/ios-style-checkboxes/on-63584.png (from www.viaviweb.in/Apps/cricket_world_cup/css/jquery.iphone.toggle.css)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/ios-style-checkboxes/off-63584.png (from www.viaviweb.in/Apps/cricket_world_cup/css/jquery.iphone.toggle.css)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/ios-style-checkboxes/slider_left-63584.png (from www.viaviweb.in/Apps/cricket_world_cup/css/jquery.iphone.toggle.css)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/ios-style-checkboxes/slider_right-63584.png (from www.viaviweb.in/Apps/cricket_world_cup/css/jquery.iphone.toggle.css)
+09:23:53	Error: 	"Not Found" (404) at link www.viaviweb.in/Apps/cricket_world_cup/img/ios-style-checkboxes/slider_center-63584.png (from www.viaviweb.in/Apps/cricket_world_cup/css/jquery.iphone.toggle.css)
+
+HTTrack Website Copier/3.49-1 mirror complete in 2 minutes 43 seconds : 139 links scanned, 131 files written (4018103 bytes overall) [4065103 bytes received at 24939 bytes/sec], 8921 bytes transferred using HTTP compression in 9 files, ratio 33%
+(7 errors, 0 warnings, 0 messages)

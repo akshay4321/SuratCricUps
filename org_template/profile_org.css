@@ -1,0 +1,52 @@
+.bgbox
+{
+	
+	box-sizing: border-box;
+    position: relative;
+    height: 260px;
+    width: 500px;
+    border: 2px solid grey;
+    bottom: -63px;
+    left: 421px;
+    opacity: 0.6;
+    background-color: navy;
+}
+
+}
+.bg
+{
+	z-index:1;
+	opacity:0.3;
+	position: relative;
+    bottom: 84px;
+}
+
+.name
+{
+	position:relative;
+    bottom: 86px;
+    left: 262px;
+	font-size:45px;
+	color:black;
+	
+}
+.p1
+{
+	color:white;
+	font-size:30px;
+	
+}
+.r1
+{
+	color:white;
+	font-size:15px;
+	
+}
+.h1{
+	font-family:"Times New Roman",Times,serif;
+    font-size: 50px;
+    color: black;
+    position: relative;
+    left: 162px;
+    top: 11px;
+}
